@@ -254,7 +254,6 @@
                         display: flex;
 
                         .web__picture {
-                            width: 41px;
                             height: 41px;
                         }
 
@@ -554,7 +553,8 @@
 
                     .block-pic {
                         cursor: pointer;
-                        background: url(../../img/icon.png) no-repeat center center, #59d08b;
+                        background: url(../../img/icon.png) no-repeat center center,
+                            #59d08b;
                         overflow: hidden;
 
                         img:hover {
@@ -562,7 +562,6 @@
                         }
                     }
                 }
-
             }
         }
     }
@@ -597,7 +596,6 @@
 
                 .phone {
                     margin-bottom: 20px;
-
 
                     span {
                         color: #fff;

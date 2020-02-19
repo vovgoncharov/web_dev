@@ -736,7 +736,6 @@ textarea {
 }
 
 .main .about .about__me .about__text__own .about__me__web .web__dev .web__picture {
-  width: 41px;
   height: 41px;
 }
 
@@ -1446,6 +1445,7 @@ textarea {
   }
   .main .about .about__me .about__text__own .about__me__web .web__dev .web__picture {
     margin-bottom: 30px;
+    margin-left: 20px;
   }
 }
 /*# sourceMappingURL=main.css.map */
